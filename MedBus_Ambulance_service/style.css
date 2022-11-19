@@ -1,0 +1,50 @@
+.back
+{
+	background:url(img5.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+	padding:5px;
+	height:85%;
+	
+}
+a{
+	decoration:none;
+	color:white;
+}
+.login-box{
+
+	
+  	margin:100px auto;
+		
+}
+
+.box1{
+		
+		font-size:20px;
+		padding:5px;
+		margin:7%;
+	}
+.box2{
+		
+		
+		font-size:20px;
+		border-bottom:2px solid green;
+		padding:5px;
+		
+}
+.box3{
+		font-size:30px ;
+		
+		padding:5px;
+}
+.box4{
+	background-color:black;
+padding:5px;
+
+}
+.header{
+	background-color:#1569C7;
+	color:#fff;
+	padding:10px;
+}
